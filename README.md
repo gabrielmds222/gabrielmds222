@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Medeiros</h1>
 <h3 align="center">A developer passionate about technology, learning and coffee</h3>
 
-<!--   <div>
+<div align="center">
   <a href="https://github.com/gabrielmds222">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmds222&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmds222&layout=compact&langs_count=7&theme=blueberry"/>
-</div> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmds222&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcnogueira&layout=compact&langs_count=7&theme=omni"/>
+</div>
   
  ## 💻 Technologies
 - Front-end skills:
