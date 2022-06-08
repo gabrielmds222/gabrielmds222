@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Medeiros</h1>
+<h1 align="center">Hi , I'm Gabriel Medeiros</h1>
+<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> -->
 <h3 align="center">A developer passionate about technology, learning and coffee</h3>
 
 <div align="center">
