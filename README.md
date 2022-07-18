@@ -10,15 +10,15 @@
   
  ## 💻 Technologies
 - Front-end skills:
-  - HTML;
-  - (S)CSS;
-  - Bootstrap;
-  - JS (ES6+);
-  - Reactive libraries: VueJS and ReactJS;
+  - HTML, CSS, JS(ES6+);
+  - SASS and Bootstrap;
+  - Reactive libraries: ReactJS and VueJS;
 - Backend skills:
-  - Node and framework Express;
+  - Node
+  - Express;
 - Mobile development:
-  - React Native and Expo; 
+  - React Native
+  - Expo; 
   
  <div style="display: inline_block"><br>
 <!--     <img align="center" alt="Gabriel-Medeiros-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> -->
