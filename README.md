@@ -14,10 +14,10 @@
   - SASS and Bootstrap;
   - Reactive libraries: ReactJS and VueJS;
 - Backend skills:
-  - Node
+  - Node;
   - Express;
 - Mobile development:
-  - React Native
+  - React Native;
   - Expo; 
   
  <div style="display: inline_block"><br>
