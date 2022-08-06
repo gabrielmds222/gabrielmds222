@@ -8,18 +8,23 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcnogueira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
- ## 💻 Technologies
-- Front-end skills:
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-- Backend skills:
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=E535AB)
+
   
 <!--  <div style="display: inline_block"><br>
      <img align="center" alt="Gabriel-Medeiros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
