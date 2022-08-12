@@ -8,7 +8,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcnogueira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2> 🛠 &nbsp;My Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
