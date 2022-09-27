@@ -25,7 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
+<!--![DotNet](https://img.shields.io/badge/-DotNet-333333?style=flat&logo=DotNet)-->
   
 <!--  <div style="display: inline_block"><br>
      <img align="center" alt="Gabriel-Medeiros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
