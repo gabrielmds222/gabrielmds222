@@ -17,7 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+<!--![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)-->
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
