@@ -5,7 +5,8 @@
  <div>
   <a href="https://github.com/gabrielmds222">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmds222&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmds222&layout=compact&langs_count=8&theme=dark"/>
+     <img height="194px" src="https://github-readme-stats.vercel.app/api?username=dimasabreu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmds222&layout=compact&langs_count=8&theme=dark"/> -->
 </div>
   
 <h2> 🛠 &nbsp;My Stack</h2>
