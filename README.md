@@ -10,7 +10,7 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmds222&layout=compact&langs_count=8&theme=dark"/> -->
 </div>
   
-<h2> 🛠 &nbsp;My Stack</h2>
+<h2> 🛠 &nbsp;Tecnologias</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
