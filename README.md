@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Gabriel Medeiros</h1>
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> -->
-<h3 align="center">Passionate about:</h3>
+<h3 align="center">Dev passionate about:</h3>
 <h3 align="center">Technology | Learning | Coffee</h3>
 
  <div>
